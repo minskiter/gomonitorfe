@@ -1,24 +1,4 @@
-# fe
+#### go monitor 前端 
 
-## Project setup
-```
-yarn install
-```
+主要用于测试chartjs的动态加载数据以及websocket的应用
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
